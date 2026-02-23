@@ -1,0 +1,319 @@
+{
+  "es": {
+    "count": 3452,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "salary_max",
+      "salary_min",
+      "title"
+    ],
+    "muestra": {
+      "latitude": 42.518411,
+      "title": "Animadores (Artistas profesionales)",
+      "location": {
+        "display_name": "Meis, Pontevedra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Galicia",
+          "Pontevedra",
+          "Meis"
+        ]
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "Trabajos en informática",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.es/land/ad/5641288621?se=vLXwsS4Q8RGN54km_8BaUQ&utm_medium=api&utm_source=9ed559b7&v=12314EBA9E31A774DAFD60BDE4F88D2068C2A92F",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5641288621",
+      "created": "2026-02-22T18:08:56Z",
+      "longitude": -8.703611,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTI4ODYyMSIsInMiOiJ2TFh3c1M0UThSR041NGttXzhCYVVRIn0.vui18bMHRObfr6V7kvlDEtWdZtenlxmKMcRji-Y7ae0",
+      "description": "¿Buscas empleo en animadores? En Meis te esperan nuevas oportunidades este febrero. ¡Apúntate gratis hoy!",
+      "salary_is_predicted": "0"
+    }
+  },
+  "fr": {
+    "count": 34732,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_time",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "salary_max",
+      "salary_min",
+      "title"
+    ],
+    "muestra": {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTUzMTE0NiIsInMiOiJXdEJmc2k0UThSR041NGttXzhCYVVRIn0.yD4dhxjPVJcUnaDzGy6NfArLmWaf2oXPX_3Y4Q5tJjg",
+      "created": "2026-02-22T21:19:18Z",
+      "id": "5641531146",
+      "redirect_url": "https://www.adzuna.fr/details/5641531146?utm_medium=api&utm_source=9ed559b7",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Emplois Informatique"
+      },
+      "salary_min": 65000,
+      "title": "Chef de projets transverses IT H/T",
+      "company": {
+        "display_name": "Manutan",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 2.43155,
+      "salary_is_predicted": "0",
+      "description": "Vous souhaitez travailler sur des technologies de pointe et révéler votre talent ? Apprendre, partager et progresser, tout en donnant du sens à votre travail ? Relever des défis technologiques et repousser les frontières du possible en transformation digitale ? Rejoignez l’aventure Manutan et ses équipes passionnées par les Technologies et la DATA. Groupe familial français, Manutan acteur majeur européen BtoB et partenaire des entreprises, collectivités et artisans depuis 60 ans, est spécialisé…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_max": 70000,
+      "location": {
+        "area": [
+          "France",
+          "Ile-de-France",
+          "Val-d'Oise",
+          "Sarcelles",
+          "Garges-lès-Gonesse-Est"
+        ],
+        "display_name": "Garges-lès-Gonesse-Est, Sarcelles",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 48.97427
+    }
+  },
+  "de": {
+    "count": 34054,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_time",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "title"
+    ],
+    "muestra": {
+      "id": "5641540580",
+      "created": "2026-02-22T21:33:58Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for an Information Security Specialist in Germany. In this role, you will play a critical part in safeguarding information assets and strengthening the organization’s overall security posture across a fully remote, global environment. You will work closely with technical, operational, and leadership teams to translate regulatory and security requirements into practical, effective controls. Your experti…",
+      "title": "Information Security Specialist (Remote from Germany)",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "Deutschland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Deutschland"
+      },
+      "redirect_url": "https://www.adzuna.de/details/5641540580?utm_medium=api&utm_source=9ed559b7",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTU0MDU4MCIsInMiOiItbkRKc2k0UThSRzJmcWR6ME9hMUlBIn0.TxCfMkKIO4WMvfVcbmVGLySRh65Prm5BanGqm_3iiek",
+      "company": {
+        "display_name": "Jobgether",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT-Stellen",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    }
+  },
+  "nl": {
+    "count": 5729,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "salary_max",
+      "salary_min",
+      "title"
+    ],
+    "muestra": {
+      "created": "2026-02-22T11:18:56Z",
+      "salary_min": 28800,
+      "description": "Over deze vacature Breng bezoekers, vrijwilligers en evenementen samen in een veelzijdige publieksfunctie bij een unieke botanische tuin. Voor De Kruidhof in Buitenpost zoeken wij een enthousiaste Medewerker Publiek. De functie Als Medewerker Publiek bij De Kruidhof in Buitenpost ben jij hét gezicht van deze bijzondere botanische tuin. Je vervult een centrale rol in de dagelijkse organisatie en zorgt ervoor dat bezoekers een optimale ervaring hebben.Je houdt je onder andere bezig met:Het behere…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Medewerker Publiek de Kruidhof - Gemeente Achtkarspelen",
+      "id": "5641105016",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5641105016?se=5LIzsy4Q8RG2fqdz0Oa1IA&utm_medium=api&utm_source=9ed559b7&v=0C273CE8227ACF4FEFB4C8C0F12C03DD84241447",
+      "company": {
+        "display_name": "YER",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTEwNTAxNiIsInMiOiI1TEl6c3k0UThSRzJmcWR6ME9hMUlBIn0.-eT-ZiXzr7JnenWs21lxQFPOhRkq4StMD2pWAxGil_M",
+      "category": {
+        "label": "IT ICT vacatures",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": 53.218455,
+      "salary_max": 42000,
+      "longitude": 6.659538,
+      "location": {
+        "area": [
+          "Nederland",
+          "Provincie Groningen",
+          "Groningen"
+        ],
+        "display_name": "Groningen, Provincie Groningen",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    }
+  },
+  "gb": {
+    "count": 50353,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_time",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "salary_max",
+      "salary_min",
+      "title"
+    ],
+    "muestra": {
+      "created": "2026-02-22T20:24:34Z",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_max": 50000,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Description Glasgow is transforming the way it delivers Digital Services - and we want you to be part of it. If you’re ready to make an impact and looking for a role where your ideas truly matter and make a difference, this could be the opportunity you’ve been waiting for. Glasgow City Council is seeking to expand its Programme Management function within Digital Services by recruiting a permanent Programme Management Officer. You will provide expert advice and robust management of diverse a…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5641533593?se=zA2qsy4Q8RGCOqer9fzSag&utm_medium=api&utm_source=9ed559b7&v=4D7D34A661B4B464B82B8D214C8B5BF3C2C34CC5",
+      "salary_min": 40001,
+      "id": "5641533593",
+      "company": {
+        "display_name": "Glasgow",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_type": "permanent",
+      "title": "Programme Management Officer - GLA14904",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0MTUzMzU5MyIsInMiOiJ6QTJxc3k0UThSR0NPcWVyOWZ6U2FnIn0.ZMFv2Q9juOiQUzVS3OvzgAKWlnFAFNQOeI4IK-DgrTo"
+    }
+  },
+  "ch": {
+    "count": 1200,
+    "anuncios_en_pagina": 10,
+    "keys_anuncio": [
+      "__CLASS__",
+      "adref",
+      "category",
+      "company",
+      "contract_time",
+      "contract_type",
+      "created",
+      "description",
+      "id",
+      "latitude",
+      "location",
+      "longitude",
+      "redirect_url",
+      "salary_is_predicted",
+      "title"
+    ],
+    "muestra": {
+      "latitude": 47.374173,
+      "location": {
+        "area": [
+          "Schweiz",
+          "Kanton Zürich",
+          "Zürich",
+          "Zürich"
+        ],
+        "display_name": "Zürich",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 8.523767,
+      "redirect_url": "https://www.adzuna.ch/details/5640910371?utm_medium=api&utm_source=9ed559b7",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiWUhvY3RDNFE4UkcyZnFkejBPYTFJQSIsImkiOiI1NjQwOTEwMzcxIn0.IemdXZZNKcIbN5tw3RZs-XmGAqSMszaZedh7aSU5_5Y",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Manpower"
+      },
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT-Stellen"
+      },
+      "id": "5640910371",
+      "created": "2026-02-22T06:43:14Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Manpower ​ MANPOWER AG ? Your Career, Our Focus! Become part of our network and take advantage of countless opportunities! ManpowerGroup is the world's leading provider of workforce solutions. With our three brands ? Manpower, Experis, and Talent Solutions ? we support companies in various industries with their recruitment needs. For 75 years, we have been operating in over 75 countries, helping our clients across Switzerland successfully achieve their goals and implement projects. We are looki…",
+      "title": "R&D Test and Process Engineer ? Bushings (High Voltage)"
+    }
+  }
+}

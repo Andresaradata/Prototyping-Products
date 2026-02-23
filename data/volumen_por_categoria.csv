@@ -1,0 +1,181 @@
+pais,categoria_tag,categoria_label,count
+ch,unknown,Unknown,50186
+ch,other-general-jobs,Sonstige/Allgemeine Stellen,12954
+ch,trade-construction-jobs,Stellen aus Handel & Bau,1571
+ch,it-jobs,IT-Stellen,1200
+ch,manufacturing-jobs,Stellen aus Fertigung,1195
+ch,accounting-finance-jobs,Stellen aus Buchhaltung & Finanzwesen,813
+ch,engineering-jobs,Technikerstellen,803
+ch,healthcare-nursing-jobs,Stellen aus Gesundheitswesen & Pflege,759
+ch,hospitality-catering-jobs,Stellen aus Gastronomie & Catering,720
+ch,consultancy-jobs,Beraterstellen,587
+ch,pr-advertising-marketing-jobs,"Stellen aus PR, Werbung & Marketing",339
+ch,logistics-warehouse-jobs,Stellen aus Logistik & Lagerhaltung,306
+ch,hr-jobs,Stellen aus Personal & Personalbeschaffung,244
+ch,customer-services-jobs,Kundendienststellen,227
+ch,sales-jobs,Vertriebsstellen,188
+ch,creative-design-jobs,Stellen aus Kreation & Design,182
+ch,maintenance-jobs,Stellen aus Wartung,123
+ch,admin-jobs,Verwaltungsstellen,108
+ch,retail-jobs,Stellen aus Einzelhandel,104
+ch,teaching-jobs,Lehrberufe,77
+ch,travel-jobs,Stellen aus Tourismus,74
+ch,scientific-qa-jobs,Stellen aus Wissenschaft & Qualitätssicherung,70
+ch,property-jobs,Immobilienstellen,39
+ch,domestic-help-cleaning-jobs,Stellen aus Haushaltshilfen & Reinigung,21
+ch,legal-jobs,Juristische Stellen,19
+ch,social-work-jobs,Stellen aus Sozialarbeit,9
+ch,energy-oil-gas-jobs,Stellen aus Versorgungsunternehmen,6
+ch,part-time-jobs,Teilzeitstellen,2
+ch,graduate-jobs,Stellen für Hochschulabsolventen,1
+ch,charity-voluntary-jobs,Gemeinnützige & ehrenamtliche Stellen,0
+de,unknown,Unknown,725881
+de,other-general-jobs,Sonstige/Allgemeine Stellen,91805
+de,healthcare-nursing-jobs,Stellen aus Gesundheitswesen & Pflege,35990
+de,it-jobs,IT-Stellen,34025
+de,logistics-warehouse-jobs,Stellen aus Logistik & Lagerhaltung,20201
+de,sales-jobs,Vertriebsstellen,17320
+de,teaching-jobs,Lehrberufe,16578
+de,hospitality-catering-jobs,Stellen aus Gastronomie & Catering,14499
+de,graduate-jobs,Stellen für Hochschulabsolventen,14157
+de,accounting-finance-jobs,Stellen aus Buchhaltung & Finanzwesen,13047
+de,part-time-jobs,Teilzeitstellen,11958
+de,consultancy-jobs,Beraterstellen,11602
+de,manufacturing-jobs,Stellen aus Fertigung,11272
+de,engineering-jobs,Technikerstellen,10184
+de,pr-advertising-marketing-jobs,"Stellen aus PR, Werbung & Marketing",9631
+de,trade-construction-jobs,Stellen aus Handel & Bau,6561
+de,hr-jobs,Stellen aus Personal & Personalbeschaffung,6476
+de,maintenance-jobs,Stellen aus Wartung,5713
+de,admin-jobs,Verwaltungsstellen,4704
+de,retail-jobs,Stellen aus Einzelhandel,4520
+de,domestic-help-cleaning-jobs,Stellen aus Haushaltshilfen & Reinigung,3808
+de,customer-services-jobs,Kundendienststellen,3234
+de,creative-design-jobs,Stellen aus Kreation & Design,2945
+de,legal-jobs,Juristische Stellen,1587
+de,travel-jobs,Stellen aus Tourismus,1026
+de,scientific-qa-jobs,Stellen aus Wissenschaft & Qualitätssicherung,895
+de,social-work-jobs,Stellen aus Sozialarbeit,851
+de,property-jobs,Immobilienstellen,665
+de,energy-oil-gas-jobs,Stellen aus Versorgungsunternehmen,413
+de,charity-voluntary-jobs,Gemeinnützige & ehrenamtliche Stellen,152
+es,unknown,Unknown,108594
+es,other-general-jobs,Otros trabajos,5618
+es,it-jobs,Trabajos en informática,3452
+es,admin-jobs,Trabajos en administración,1549
+es,manufacturing-jobs,Trabajos en fabricación y manufactura,1512
+es,accounting-finance-jobs,Trabajos en contabilidad y finanzas,1474
+es,domestic-help-cleaning-jobs,Trabajos de limpieza,1452
+es,hospitality-catering-jobs,Trabajos en hosteleria y restauración,1309
+es,healthcare-nursing-jobs,Trabajos en sanidad y salud,1208
+es,pr-advertising-marketing-jobs,"Trabajos en marketing, publicidad y relaciones públicas",1152
+es,engineering-jobs,Trabajos en ingeniería,1080
+es,consultancy-jobs,Trabajos en consultoría,1061
+es,sales-jobs,Trabajos en ventas,937
+es,customer-services-jobs,Trabajos en atención al cliente,666
+es,trade-construction-jobs,Trabajos en construcción,581
+es,logistics-warehouse-jobs,Trabajos en logística y almacén,470
+es,creative-design-jobs,Trabajos en diseño y artes gráficas,420
+es,teaching-jobs,Trabajos en educación,410
+es,hr-jobs,Trabajos en recursos humanos,384
+es,maintenance-jobs,Trabajos de mantenimiento,258
+es,legal-jobs,Trabajos en legal,157
+es,travel-jobs,Trabajos en turismo,138
+es,energy-oil-gas-jobs,"Trabajos en energía, petroleo y gas",93
+es,retail-jobs,Trabajos en tiendas,90
+es,scientific-qa-jobs,Trabajos en ciencias y control de calidad,88
+es,property-jobs,Trabajos en inmobiliarias,15
+es,graduate-jobs,Trabajos para recién graduados,3
+es,social-work-jobs,Trabajos en servicios sociales,1
+es,charity-voluntary-jobs,Voluntariados,0
+es,part-time-jobs,Trabajos a tiempo parcial,0
+fr,unknown,Unknown,648043
+fr,other-general-jobs,Emplois Autres/Général,252238
+fr,healthcare-nursing-jobs,Emplois Soins de santé et infirmiers,76411
+fr,hospitality-catering-jobs,Emplois Hospitalité et Restauration,61010
+fr,trade-construction-jobs,Emplois Industrie et Construction,52336
+fr,accounting-finance-jobs,Emplois Comptabilité et Finance,35824
+fr,it-jobs,Emplois Informatique,34801
+fr,logistics-warehouse-jobs,Emplois Distribution et Entrepôts,33242
+fr,manufacturing-jobs,Emplois Fabrication,32347
+fr,engineering-jobs,Emplois Ingénierie,28793
+fr,sales-jobs,Emplois Vente,27645
+fr,hr-jobs,Emplois RH et Recrutement,24461
+fr,graduate-jobs,Emplois Diplômés,20534
+fr,property-jobs,Emplois Immobilier,17574
+fr,teaching-jobs,Emplois Enseignement,16658
+fr,consultancy-jobs,Emplois Consultants,15441
+fr,domestic-help-cleaning-jobs,Emploi Aide ménagère et Nettoyage,11480
+fr,maintenance-jobs,Emplois Maintenance,10828
+fr,pr-advertising-marketing-jobs,"Emplois RP, Publicité et Marketing",8359
+fr,admin-jobs,Emplois Administration,5431
+fr,retail-jobs,Emplois Commerce détail,4664
+fr,social-work-jobs,Emplois Travail social,4349
+fr,scientific-qa-jobs,Emplois Scientifiques et AQ,3913
+fr,customer-services-jobs,Emplois Services client,2862
+fr,energy-oil-gas-jobs,"Emplois Énergie, pétrole et gaz",2593
+fr,travel-jobs,Emplois Voyages,2155
+fr,creative-design-jobs,Emplois Création et Design,1492
+fr,legal-jobs,Emplois Droit,803
+fr,charity-voluntary-jobs,Emplois Caritatif et Volontariat,8
+fr,part-time-jobs,Emplois Temps partiel,1
+gb,teaching-jobs,Teaching Jobs,221735
+gb,trade-construction-jobs,Trade & Construction Jobs,68704
+gb,engineering-jobs,Engineering Jobs,68290
+gb,it-jobs,IT Jobs,51209
+gb,sales-jobs,Sales Jobs,45348
+gb,accounting-finance-jobs,Accounting & Finance Jobs,36647
+gb,healthcare-nursing-jobs,Healthcare & Nursing Jobs,32920
+gb,hospitality-catering-jobs,Hospitality & Catering Jobs,32138
+gb,social-work-jobs,Social work Jobs,28258
+gb,logistics-warehouse-jobs,Logistics & Warehouse Jobs,26813
+gb,admin-jobs,Admin Jobs,16230
+gb,domestic-help-cleaning-jobs,Domestic help & Cleaning Jobs,13867
+gb,legal-jobs,Legal Jobs,13237
+gb,retail-jobs,Retail Jobs,13070
+gb,customer-services-jobs,Customer Services Jobs,11370
+gb,pr-advertising-marketing-jobs,"PR, Advertising & Marketing Jobs",10824
+gb,manufacturing-jobs,Manufacturing Jobs,10202
+gb,hr-jobs,HR & Recruitment Jobs,7670
+gb,part-time-jobs,Part time Jobs,7561
+gb,consultancy-jobs,Consultancy Jobs,6217
+gb,maintenance-jobs,Maintenance Jobs,5716
+gb,scientific-qa-jobs,Scientific & QA Jobs,5301
+gb,graduate-jobs,Graduate Jobs,5294
+gb,property-jobs,Property Jobs,3733
+gb,creative-design-jobs,Creative & Design Jobs,3267
+gb,travel-jobs,Travel Jobs,2584
+gb,energy-oil-gas-jobs,"Energy, Oil & Gas Jobs",1410
+gb,charity-voluntary-jobs,Charity & Voluntary Jobs,944
+gb,other-general-jobs,Other/General Jobs,712
+gb,unknown,Unknown,8
+nl,unknown,Unknown,117236
+nl,engineering-jobs,Bouwkunde vacatures,28096
+nl,domestic-help-cleaning-jobs,Thuishulp en schoonmaak vacatures,17326
+nl,logistics-warehouse-jobs,Logistieke vacatures,12689
+nl,manufacturing-jobs,Industriële vacatures,11869
+nl,other-general-jobs,Vacatures Ander of Algemeen,8657
+nl,teaching-jobs,Vacatures voor leraren,6558
+nl,healthcare-nursing-jobs,Gezondheidszorg Wetenschap en Verpleging vacatures,6078
+nl,it-jobs,IT ICT vacatures,5729
+nl,admin-jobs,Administratieve vacatures,4253
+nl,hospitality-catering-jobs,Horeca en Catering vacatures,3405
+nl,retail-jobs,Detailhandel vacatures,3346
+nl,trade-construction-jobs,Handel vacatures,2938
+nl,accounting-finance-jobs,Accounting en Financiële vacatures,2815
+nl,sales-jobs,Sales vacatures,2291
+nl,maintenance-jobs,Onderhoud vacatures,1934
+nl,consultancy-jobs,Adviseur en Consultancy vacatures,1392
+nl,pr-advertising-marketing-jobs,PR Reclame en Marketing vacatures,1175
+nl,hr-jobs,Personeelszaken Human Resources vacatures,1130
+nl,customer-services-jobs,Klantenservice vacatures,1042
+nl,scientific-qa-jobs,QA en Kwaliteitsborging vacatures,807
+nl,creative-design-jobs,Creatieve Design vacatures,613
+nl,property-jobs,Vastgoed vacatures,506
+nl,social-work-jobs,Maatschappelijk werk vacatures,271
+nl,legal-jobs,Juridische vacatures,230
+nl,energy-oil-gas-jobs,Energie Olie en Gas vacatures,106
+nl,travel-jobs,Vacatures in de Reisbranche,93
+nl,charity-voluntary-jobs,Liefdadigheid en vrijwilligerswerk,93
+nl,part-time-jobs,Parttime vacatures,63
+nl,graduate-jobs,Vacatures voor universitair afgestudeerden,44
