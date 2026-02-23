@@ -1,6 +1,6 @@
 ## Career Market Intelligence — Prototype v1
 Overview
-
+####  FOR USE python -m streamlit run app/Home.py
 Career Market Intelligence is an early-stage prototype designed to analyze labor market dynamics across Spain and progressively Europe.
 
 This application helps students and early-career professionals understand:
