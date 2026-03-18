@@ -146,33 +146,6 @@ Step 4  Remote    = Skills-adjusted × 1.08  (if remote / hybrid)
 Step 5  Range     = Final ± 15–22%  (based on INE salary distribution spread)
 ```
 
-**Seniority multipliers** — from INE CNO-11 occupation deciles:
-
-| Level | Multiplier |
-|-------|-----------|
-| Intern | 0.55× |
-| Junior | 0.72× |
-| Mid | 1.00× |
-| Senior | 1.38× |
-| Manager / Director | 1.75× |
-
-**Skill premiums** — from Hays Spain 2024 · Michael Page Spain 2024 · Stack Overflow Developer Survey 2024:
-
-| Skill | Premium |
-|-------|---------|
-| ML / AI | +12% |
-| Cybersecurity | +10% |
-| Cloud (AWS/Azure/GCP) | +9% |
-| DevOps / Docker / K8s | +8% |
-| Data Engineering | +8% |
-| SAP / ERP | +7% |
-| Python | +6% |
-| Java | +5% |
-| JavaScript / TypeScript | +4% |
-| SQL / Databases | +3% |
-
-> Senior always earns more than junior. More skills always raises the estimate. Every number is citable.
-
 ---
 
 ## 📈 v1 → v2 changes
